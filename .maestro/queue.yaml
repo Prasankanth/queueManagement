@@ -1,0 +1,4 @@
+appId: com.queuemanagement
+---
+- launchApp
+- assertVisible: "Queue"
